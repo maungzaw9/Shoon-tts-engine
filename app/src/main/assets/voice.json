@@ -1,0 +1,29 @@
+{
+  "model": "YeeNyunn/nara-mini-v1",
+  "voices": [
+    {
+      "id": "shoon",
+      "name": "Shoon",
+      "bundled": true,
+      "download_url": "https://huggingface.co/YeeNyunn/nara-mini-v1/tree/main/onnx/shoon"
+    },
+    {
+      "id": "thazin",
+      "name": "Thazin",
+      "bundled": false,
+      "download_url": "https://huggingface.co/YeeNyunn/nara-mini-v1/tree/main/onnx/thazin"
+    },
+    {
+      "id": "ko-banyar",
+      "name": "Ko Banyar",
+      "bundled": false,
+      "download_url": "https://huggingface.co/YeeNyunn/nara-mini-v1/tree/main/onnx/ko-banyar"
+    },
+    {
+      "id": "htet-myat",
+      "name": "Htet Myat",
+      "bundled": false,
+      "download_url": "https://huggingface.co/YeeNyunn/nara-mini-v1/tree/main/onnx/htet-myat"
+    }
+  ]
+}
